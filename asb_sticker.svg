@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1003.8032"
-   height="1001.8032"
+   width="1000"
+   height="1000"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="asb_sticker.svg"
    inkscape:export-filename="/Users/achintya/Desktop/asb_sticker.png"
-   inkscape:export-xdpi="300.06"
-   inkscape:export-ydpi="300.06">
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.28"
-     inkscape:cx="582.5735"
-     inkscape:cy="282.82045"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="653.84368"
+     inkscape:cy="666.97336"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,7 +54,7 @@
        type="xygrid"
        id="grid3422"
        originx="3.5857975"
-       originy="4.8393555e-05" />
+       originy="4.657422e-05" />
     <sodipodi:guide
        position="922.82462,1036.6185"
        orientation="1,0"
@@ -88,7 +88,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(3.5857975,-50.559006)">
+     transform="translate(3.5857975,-52.362229)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;enable-background:accumulate"
        id="rect3865"
@@ -302,5 +302,5 @@
      id="layer2"
      inkscape:label="Guide"
      style="display:inline"
-     transform="translate(3.5857975,501.80317)" />
+     transform="translate(3.5857975,499.99995)" />
 </svg>
